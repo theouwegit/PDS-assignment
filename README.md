@@ -14,3 +14,10 @@ This part demonstrated the power of the Python Data Science ecosystem (Pandas, M
 - **Statistical Validation**: Formulating hypotheses and using t-tests to determine if observed differences (like weekday vs weekend usage) are statistically significant.
 
 Overall, the assignment provided a comprehensive overview of the full data pipeline, from raw data extraction to statistical inference.
+
+## Part 4: Use of Git
+This project was developed using Git for version control. Key practices included:
+- Initializing a local repository.
+- Staging and committing changes with descriptive messages.
+- Tracking the evolution of Jupyter notebooks and analysis results.
+
