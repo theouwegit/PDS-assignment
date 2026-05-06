@@ -13,7 +13,7 @@ This part demonstrated the power of the Python Data Science ecosystem (Pandas, M
 - **Data Cleaning**: Applying the Interquartile Range (IQR) method to identify and remove outliers that could bias results.
 - **Statistical Validation**: Formulating hypotheses and using t-tests to determine if observed differences (like weekday vs weekend usage) are statistically significant.
 
-Overall, the assignment provided a comprehensive overview of the full data pipeline, from raw data extraction to statistical inference.
+Overall, the assignment provided a comprehensive overview of the full data pipeline, from extracting the raw data to statistical inference.
 
 ## Part 4: Use of Git
 This project was developed using Git for version control. Key practices included:
